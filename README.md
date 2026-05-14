@@ -9,6 +9,8 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [Atomation.io](https://atomation.io/) - business automation, websites, API integrations, and AI workflows.
 - [Automation ideas](https://atomation.io/automation-ideas/) - practical systems a small business can automate.
 - [API integration services](https://atomation.io/integrations/) - connect apps, webhooks, CRMs, spreadsheets, payments, and business tools.
+- [Automation savings calculator](https://atomation.io/automation-savings-calculator/) - estimate time savings, labor savings, missed follow-up recovery, and software overlap opportunities.
+- [API integration checklist](https://atomation.io/api-integration-checklist/) - plan app and API integrations before building the workflow.
 - [Customer success stories](https://atomation.io/customer-success-stories/) - examples of measurable workflow and operations improvements.
 - [Blog](https://atomation.io/blog/) - posts about saving time, reducing software costs, and improving operations.
 
@@ -23,10 +25,10 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - Google Business Profile and review workflows
 - Small business process improvement
 
-## Planned Resources
+## Resources
 
-- Manual task savings calculator
-- API integration checklist
+- [Automation savings calculator](./automation-savings-calculator.md)
+- [API integration checklist](./api-integration-checklist.md)
 - Website form automation checklist
 - AI traffic readiness checklist
 - Workflow automation examples for local businesses
