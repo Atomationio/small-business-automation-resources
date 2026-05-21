@@ -9,6 +9,11 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [Atomation.io](https://atomation.io/) - business automation, websites, API integrations, and AI workflows.
 - [Automation ideas](https://atomation.io/automation-ideas/) - practical systems a small business can automate.
 - [API integration services](https://atomation.io/integrations/) - connect apps, webhooks, CRMs, spreadsheets, payments, and business tools.
+- [Small business workflow automation](https://atomation.io/small-business-workflow-automation/) - how to choose and automate repeatable workflows without overbuying software.
+- [CRM integrations for small businesses](https://atomation.io/crm-integrations-small-business/) - connect forms, CRMs, email, spreadsheets, and follow-up tools.
+- [API connections that reduce manual work](https://atomation.io/api-connections-reduce-manual-work/) - use APIs and webhooks to move data between business apps.
+- [Website automation for lead generation](https://atomation.io/website-automation-lead-generation/) - route website leads into follow-up systems without missed inquiries.
+- [QuickBooks and CRM integration](https://atomation.io/quickbooks-crm-integration/) - reduce duplicate entry between customer records, invoices, and follow-up.
 - [Automation savings calculator](https://atomation.io/automation-savings-calculator/) - estimate time savings, labor savings, missed follow-up recovery, and software overlap opportunities.
 - [API integration checklist](https://atomation.io/api-integration-checklist/) - plan app and API integrations before building the workflow.
 - [Customer success stories](https://atomation.io/customer-success-stories/) - examples of measurable workflow and operations improvements.
@@ -29,6 +34,9 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 
 - [Automation savings calculator](./automation-savings-calculator.md)
 - [API integration checklist](./api-integration-checklist.md)
+- [Small business workflow automation guide](./small-business-workflow-automation.md)
+- [API connections guide](./api-connections-reduce-manual-work.md)
+- [QuickBooks and CRM integration guide](./quickbooks-crm-integration.md)
 - Website form automation checklist
 - AI traffic readiness checklist
 - Workflow automation examples for local businesses
