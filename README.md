@@ -16,6 +16,7 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [Website form to CRM integration](https://atomation.io/website-form-to-crm-integration/) - send form submissions into a CRM with clean fields, alerts, duplicate checks, and follow-up tasks.
 - [QuickBooks and CRM integration](https://atomation.io/quickbooks-crm-integration/) - reduce duplicate entry between customer records, invoices, and follow-up.
 - [QuickBooks invoice automation](https://atomation.io/quickbooks-invoice-automation/) - automate invoice reminders, payment status alerts, overdue summaries, and owner follow-up.
+- [Google Sheets automation](https://atomation.io/google-sheets-automation/) - turn spreadsheet rows into CRM updates, reports, alerts, and app handoffs.
 - [Automation savings calculator](https://atomation.io/automation-savings-calculator/) - estimate time savings, labor savings, missed follow-up recovery, and software overlap opportunities.
 - [API integration checklist](https://atomation.io/api-integration-checklist/) - plan app and API integrations before building the workflow.
 - [Customer success stories](https://atomation.io/customer-success-stories/) - examples of measurable workflow and operations improvements.
@@ -41,6 +42,7 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [Website form to CRM integration guide](./website-form-to-crm-integration.md)
 - [QuickBooks and CRM integration guide](./quickbooks-crm-integration.md)
 - [QuickBooks invoice automation guide](./quickbooks-invoice-automation.md)
+- [Google Sheets automation guide](./google-sheets-automation.md)
 - Website form automation checklist
 - AI traffic readiness checklist
 - Workflow automation examples for local businesses
