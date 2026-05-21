@@ -18,6 +18,7 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [QuickBooks invoice automation](https://atomation.io/quickbooks-invoice-automation/) - automate invoice reminders, payment status alerts, overdue summaries, and owner follow-up.
 - [Google Sheets automation](https://atomation.io/google-sheets-automation/) - turn spreadsheet rows into CRM updates, reports, alerts, and app handoffs.
 - [Zoho CRM automation](https://atomation.io/zoho-crm-automation/) - automate Zoho lead capture, owner assignment, stages, reminders, and reporting.
+- [HubSpot CRM automation](https://atomation.io/hubspot-crm-automation/) - automate HubSpot contacts, lifecycle stages, owner routing, tasks, and reporting.
 - [Automation savings calculator](https://atomation.io/automation-savings-calculator/) - estimate time savings, labor savings, missed follow-up recovery, and software overlap opportunities.
 - [API integration checklist](https://atomation.io/api-integration-checklist/) - plan app and API integrations before building the workflow.
 - [Customer success stories](https://atomation.io/customer-success-stories/) - examples of measurable workflow and operations improvements.
@@ -45,6 +46,7 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [QuickBooks invoice automation guide](./quickbooks-invoice-automation.md)
 - [Google Sheets automation guide](./google-sheets-automation.md)
 - [Zoho CRM automation guide](./zoho-crm-automation.md)
+- [HubSpot CRM automation guide](./hubspot-crm-automation.md)
 - Website form automation checklist
 - AI traffic readiness checklist
 - Workflow automation examples for local businesses
