@@ -13,6 +13,7 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [CRM integrations for small businesses](https://atomation.io/crm-integrations-small-business/) - connect forms, CRMs, email, spreadsheets, and follow-up tools.
 - [API connections that reduce manual work](https://atomation.io/api-connections-reduce-manual-work/) - use APIs and webhooks to move data between business apps.
 - [Website automation for lead generation](https://atomation.io/website-automation-lead-generation/) - route website leads into follow-up systems without missed inquiries.
+- [Website form to CRM integration](https://atomation.io/website-form-to-crm-integration/) - send form submissions into a CRM with clean fields, alerts, duplicate checks, and follow-up tasks.
 - [QuickBooks and CRM integration](https://atomation.io/quickbooks-crm-integration/) - reduce duplicate entry between customer records, invoices, and follow-up.
 - [Automation savings calculator](https://atomation.io/automation-savings-calculator/) - estimate time savings, labor savings, missed follow-up recovery, and software overlap opportunities.
 - [API integration checklist](https://atomation.io/api-integration-checklist/) - plan app and API integrations before building the workflow.
@@ -36,9 +37,16 @@ Atomation helps small businesses connect websites, forms, CRMs, spreadsheets, in
 - [API integration checklist](./api-integration-checklist.md)
 - [Small business workflow automation guide](./small-business-workflow-automation.md)
 - [API connections guide](./api-connections-reduce-manual-work.md)
+- [Website form to CRM integration guide](./website-form-to-crm-integration.md)
 - [QuickBooks and CRM integration guide](./quickbooks-crm-integration.md)
 - Website form automation checklist
 - AI traffic readiness checklist
 - Workflow automation examples for local businesses
+
+## LinkedIn Articles
+
+- [AI SEO for Small Businesses](https://www.linkedin.com/pulse/ai-seo-small-businesses-make-your-website-easier-find-cite-hzkfe/) - why crawlability, answer-first pages, trust signals, and useful links matter for AI search.
+- [Website Automation for Lead Generation](https://www.linkedin.com/pulse/website-automation-lead-generation-stop-losing-form-submissions-8fcbe/) - how website forms can trigger CRM records, owner alerts, confirmations, and follow-up.
+- [n8n Automation for Small Businesses](https://www.linkedin.com/pulse/n8n-automation-small-businesses-when-makes-sense-atomation-io-h0lfe/) - when n8n makes sense for repeat workflows across websites, CRMs, email, payments, spreadsheets, and accounting tools.
 
 For help with a workflow, visit [Atomation.io/contact-us](https://atomation.io/contact-us/).
